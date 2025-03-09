@@ -1,0 +1,158 @@
+body {
+  
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: #0E859A;
+}
+nav{
+  background: #ACC21C;
+  width: 95%;
+  height: 260px;
+  border-radius: 12px;
+  margin-left: 9px;
+}
+li{
+  color: #FBECEC;
+}
+.button_nav{
+ font-size: 20px;
+ width:90%;
+ height: 60px;
+ margin-top: 20px;
+ border-radius:8px;
+  background: #13B9A1;
+  
+}
+.content_game2{
+  padding-top:10px;
+  margin: 20px 0px 20px 6px;
+  width: 97%;
+  height: 600px;
+  background: #15AB23;
+  border-radius:12px;
+}
+.p1{
+  color: #CAD214;
+  text-align: center;
+}
+.p2{
+  text-align: center;
+  margin: 0px 20px 2px 0px;
+  color: #BAD72B;
+}
+.input1{
+  margin: 10px 0px 0px 90px;
+  width: 50%;
+  height: 150px;
+  background: #FBFBFE;
+  border-radius:15px;
+}
+.p3{
+  margin: 20px 20px 30px 0px;
+  color: #001CFF;
+  text-align: center;
+}
+.p4{
+margin: 0px 20px 2px 0px;
+  color: #BAD72B;
+  text-align: center;
+}
+.input2{
+  margin: 10px 0px 0px 90px;
+  width: 50%;
+  height: 150px;
+  background: #FBFBFE;
+  border-radius:15px;
+}
+
+.button1{
+  width: 75px;
+  height: 70px;
+  margin: 40px 0px 10px 30px ;
+  background: url('');
+  border-radius:12px;
+  border:none;
+}
+.button2{
+  width: 75px;
+  height: 70px;
+  margin: 40px 0px 10px 30px ;
+  background: url('../game2/Photo/photo_papir.jpg.jpg');
+  border-radius:12px;
+  border:none;
+}
+.button3 {
+  width: 75px;
+  height: 70px;
+  margin: 40px 0px 10px 30px;
+  background: url('');
+  border-radius: 12px;
+ border:none;
+  
+}
+img{
+  width: 70px;
+  height: 65px;
+  border-radius:12px;
+  
+  
+}
+.p5{
+  margin: 10px 0px 0px 0px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #730D0D;
+}
+.p6{
+  margin: 10px 0px 0px 0px;
+font-size: 20px;
+  font-weight: bold;
+  color: #105507;
+}
+
+.Check1{
+  position: fixed ;
+  top:40px;
+  left: 10px;
+}
+.Check2{
+  position: fixed;
+  top: 10px;
+  left: 125px;
+}
+.Check3 {
+  position: fixed;
+  top: 40px;
+  left: 350px;
+}
+
+.check{
+  width: 30px;
+  height: 20px;
+  border-radius:8px;
+  pointer-events: none;
+  text-align: center;
+  font-weight: bold;
+}
+.button_cleen{
+  width: 150px;
+  height: 30px;
+  border-radius:8px;
+  font-weight:bold;
+  font-size: 15px;
+  background: #E50C0C
+  
+  
+  
+  
+}
+.check2{
+  width: 30px;
+  height: 20px;
+  border-radius:8px;
+  pointer-events: none;
+  text-align: center;
+  font-weight: bold;
+}
+  
