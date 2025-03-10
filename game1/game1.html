@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>game1</title>
+</head>
+ <link rel="stylesheet" href="game1.css">
+<body>
+  <nav>
+    <ul>
+      <li><button onclick= "location.href='../home/index.html'" class="button_nav">Головна</button></li>
+      <li><button onclick= "location.href='../game1/game1.html'" class="button_nav"> Відгадай число🎮</button></li>
+      <li><button onclick= "location.href='../game2/game2.html'" class="button_nav">Камінь, ножиці, папір🎮</button></li>
+    </ul>
+  </nav>
+
+  </div>
+<div class="content_game1">
+  <p class="p6">Відгадай число...😉</p>
+    <input type="text" id="text_game1" class="text_game1" placeholder="Удачі...😉">
+    
+    <div class="button">
+      <button class="button1" onclick="number('1')">1</button>
+         <button class="button1" onclick="number('2')">2</button>
+         <button class="button1" onclick="number('3')">3</button>
+    </div>
+    <div class="button2">
+      <button class="button1" onclick="number ('4')">4</button>
+      <button class="button1" onclick="number('5')">5</button>
+      <button class="button1" onclick="number('6')">6</button>
+    </div>
+    <div class="button3">
+      <button class="button1" onclick="number('7')">7</button>
+      <button class="button1" onclick="number ('8')">8</button>
+      <button class="button1" onclick="number ('9')">9</button>
+    </div>
+    <button class="button_Start" onclick="start()">Старт</button>
+    <span id="error"></span>
+    <button class="button_test" onclick="global_random()">Перевірити вдачу🤞</button>
+  </div>
+</body>
+  <script src="game1.js"></script>
+</html>

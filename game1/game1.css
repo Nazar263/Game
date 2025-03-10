@@ -1,0 +1,93 @@
+body {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: #626CD9;
+}
+nav{
+  background: #ACC21C;
+  width: 95%;
+  height: 260px;
+  border-radius: 12px;
+  margin-left: 9px;
+}
+li{
+  color: #FBECEC;
+}
+.button_nav{
+ font-size: 20px;
+ width:90%;
+ height: 60px;
+ margin-top: 20px;
+ border-radius:8px;
+  background: #13B9A1;
+  
+}
+.content_game1{
+  padding-top: 2px;
+  margin: 20px 0px 30px 10px;
+  width: 95%;
+  height: 630px;
+  border-radius: 12px;
+  background: #1C9BA3;
+}
+.text_game1{
+  width: 50%;
+  height: 60px;
+  margin: 0px 0px 0px 90px;
+  border-radius:12px;
+  text-align: center;
+  pointer-events: none;
+  background: #82AD9E;
+  font-size: 17px;
+  font-weight: bold;
+}
+.p6{
+  text-align: center ;
+  color: #A3CD5C;
+}
+.button1{
+  width: 80px;
+  height: 60px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #71F1F0;
+  background: #212A8C;
+  margin: 40px 10px 10px 22px;
+  border-radius:10px;
+}
+.button_test{
+  width: 95%;
+  margin: 10px 0px 0px 10px;
+  border-radius: 12px;
+  height: 40px;
+  background: #1739A2;
+  color:#3BAECF;
+  font-size: 20px;
+  font-weight: bold;
+}
+.button_Start{
+  margin: 20px 0px 10px 10px;
+  width: 95%;
+  height: 40px;
+  border-radius:10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #514C4C;
+  background: #7AD108;
+}
+#error{
+  font-size: 17px;
+  font-weight: bold;
+  color: #B42727;
+  margin-left: 40px;
+}
+.Chek_input{
+  position: fixed;
+  top:40px;
+  pointer-events: none;
+  width: 90px;
+  height: 30px;
+  border-radius:8px;
+  background: #82D967;
+}
